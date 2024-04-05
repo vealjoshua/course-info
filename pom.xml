@@ -10,6 +10,7 @@
     <modules>
         <module>course-info-repository</module>
         <module>course-info-cli</module>
+        <module>course-info-server</module>
     </modules>
     <version>1.0-SNAPSHOT</version>
 
